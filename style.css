@@ -5,12 +5,14 @@ p {
 
 body {
     text-align: center;
+    background-color: #451952;
 }
 
 #titulo {
     font-size: 32px;
     text-align: center;
     text-transform: uppercase;
+    color: #F39F5A;
 }
 
 .texto {
