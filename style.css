@@ -4,7 +4,7 @@ p {
 }
 
 body {
-    text-align: center;
+    text-align: left;
     background-color: #451952;
 }
 
@@ -27,3 +27,7 @@ body {
     padding: 24px;
 }
 
+.titulo-principal{
+    background-image: linear-gradient(#432371,#faae7b);
+    color: white;
+}
